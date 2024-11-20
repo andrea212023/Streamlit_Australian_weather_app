@@ -19,7 +19,7 @@ Link to the dataset (https://www.kaggle.com/datasets/jsphyg/weather-dataset-ratt
 The app allows users to input various weather conditions such as temperature, rainfall, sunshine, and cloudiness to predict whether it will rain tomorrow. The model outputs:
 - Rain Prediction (Yes/No)
 - Prediction Probability: A confidence score indicating the likelihood of rain.
-You can try the app here: https://app-australian-weather.streamlit.app/
+You can try the app here: https://appaustralianweatherapp-it8cad7ju7ynaqpcnpnoyg.streamlit.app
 
 ## ⚙️ Tools & Technologies:
  - Python: Core language used in the project.
